@@ -1,1 +1,1 @@
-# Untuk Source Code setiap minggu ada di Issues ya mas mbak asdos <3
+# Praktikkum Algoritma dan Pemrograman, 71251221 Rizky Febrianto Kristiansyah
